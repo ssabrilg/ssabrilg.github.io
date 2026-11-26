@@ -6,7 +6,7 @@ about:
   template: trestles
   image: images/profile.jpeg
   image-shape: rectangle
-  image-width: 18em
+  image-width: 15em
   links:
     - icon: github
       text: GitHub
@@ -15,11 +15,13 @@ about:
 
 With an interdisciplinary background in statistics, electronic engineering, and biology, I develop analytical and computational solutions for complex challenges in energy, science, and technology.
 
+I hold an M.S. in Statistics from the University of California, Davis, and degrees in Electronic Engineering and Biology from the National University of Colombia.
+
 ## Areas of expertise
 
 - Data science and statistical modeling
 - Power systems and energy analytics
 - Machine learning and optimization
 - Scientific computing and software development
-- Environmental analysis and sustainability
----
+- Environmental analysis and sustainability.
+
