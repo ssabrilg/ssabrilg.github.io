@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sara Sofía Abril Guevara",
+    "section": "",
+    "text": "With an interdisciplinary background in statistics, electronic engineering, and biology, I develop analytical and computational solutions for complex challenges in energy, science, and technology."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Sara Sofía Abril Guevara",
+    "section": "",
+    "text": "I am an interdisciplinary researcher with a background in electronic engineering, biology, and statistics.\nMy work lies at the intersection of statistical modeling, computational science, energy systems, and environmental research.\nI hold an M.S. in Statistics from the University of California, Davis, and degrees in Electronic Engineering and Biology from the National University of Colombia."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Sara Sofía Abril Guevara",
+    "section": "Research interests",
+    "text": "Research interests\n\nApplied statistics and data science\nPower systems and energy modeling\nComputational methods\nEnvironmental science and sustainability\nScientific computing and reproducible research"
+  },
+  {
+    "objectID": "index.html#areas-of-expertise",
+    "href": "index.html#areas-of-expertise",
+    "title": "Sara Sofía Abril Guevara",
+    "section": "Areas of expertise",
+    "text": "Areas of expertise\n\nData science and statistical modeling\nPower systems and energy analytics\nMachine learning and optimization\nScientific computing and software development\nEnvironmental analysis and sustainability"
+  }
+]

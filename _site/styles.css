@@ -1,0 +1,47 @@
+
+body {
+  background-color: #faf9f6;
+  color: #303530;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.8;
+}
+
+.navbar {
+  background-color: #faf9f6;
+  border-bottom: 1px solid #deded8;
+}
+
+.navbar-title,
+.navbar .nav-link {
+  color: #29483b !important;
+}
+
+h1, h2, h3 {
+  color: #29483b;
+  font-weight: 500;
+}
+
+a {
+  color: #386b57;
+}
+
+.quarto-title .subtitle {
+  color: #69776e;
+}
+
+.about-image {
+  border-radius: 4px !important;
+}
+
+div.quarto-about-trestles {
+  padding-top: 3em;
+}
+
+.about-entity .title {
+  font-weight: 500;
+  font-size: 1.8rem;
+}
+
+.about-entity .about-link {
+  border-radius: 4px;
+}

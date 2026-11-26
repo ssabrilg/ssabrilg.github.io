@@ -1,0 +1,25 @@
+
+---
+title: "Sara Sofía Abril Guevara"
+subtitle: "Data Science | Statistical Modeling | Energy Systems"
+about:
+  template: trestles
+  image: images/profile.jpeg
+  image-shape: rectangle
+  image-width: 18em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/ssabrilg
+---
+
+With an interdisciplinary background in statistics, electronic engineering, and biology, I develop analytical and computational solutions for complex challenges in energy, science, and technology.
+
+## Areas of expertise
+
+- Data science and statistical modeling
+- Power systems and energy analytics
+- Machine learning and optimization
+- Scientific computing and software development
+- Environmental analysis and sustainability
+---
