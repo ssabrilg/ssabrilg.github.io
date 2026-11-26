@@ -1,0 +1,143 @@
+/* Color palette */
+:root {
+  --primary: #203b54;
+  --background: #f8f9fb;
+  --accent: #628da9;
+  --text: #293746;
+  --link: #365f83;
+}
+
+/* General appearance */
+body {
+  background-color: var(--background);
+  color: var(--text);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.8;
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: var(--primary) !important;
+  border-bottom: 3px solid var(--accent);
+}
+
+.navbar-title,
+.navbar .nav-link,
+.navbar .bi {
+  color: #ffffff !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: #ffffff !important;
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: var(--primary);
+  font-weight: 500;
+}
+
+h2 {
+  border-bottom: 1px solid var(--accent);
+  padding-bottom: 8px;
+}
+
+/* Links */
+a {
+  color: var(--link);
+}
+
+/* Professional subtitle */
+.quarto-title .subtitle {
+  color: var(--link);
+}
+
+/* Profile photograph */
+.about-image {
+  border-radius: 4px !important;
+}
+
+/* Homepage layout */
+div.quarto-about-trestles {
+  padding-top: 3em;
+}
+
+.about-entity .title {
+  font-weight: 500;
+  font-size: 1.8rem;
+}
+
+.about-entity .about-link {
+  border-radius: 4px;
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.about-entity .about-link:hover {
+  background-color: var(--primary);
+  color: white;
+}
+
+/* List accents */
+li::marker {
+  color: var(--accent);
+}
+/* Typography refinement */
+body {
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+.about-entity .title {
+  font-size: 1.7rem;
+  font-weight: 500;
+}
+
+.about-entity .subtitle {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/* Homepage spacing */
+div.quarto-about-trestles {
+  padding-top: 2em;
+}
+
+.about-contents h2 {
+  font-size: 1.4rem;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+}
+
+.about-contents li {
+  margin-bottom: 0.3em;
+}
+
+/* Search icon */
+#quarto-search svg {
+  color: white !important;
+}
+
+/* Refine homepage layout */
+div.quarto-about-trestles {
+  min-height: auto !important;
+  align-items: flex-start;
+}
+
+.quarto-about-trestles .about-contents {
+  align-self: flex-start;
+}
+
+.quarto-about-trestles .about-entity {
+  align-self: flex-start;
+}
+
+.about-entity .about-link {
+  font-size: 0.85rem;
+  padding: 5px 12px;
+}
+
